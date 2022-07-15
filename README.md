@@ -1,6 +1,6 @@
 # docker-mapnik3-python
 
-A Dockerfile that adds python-bindings to jawg/docker-mapnik3.
+A Dockerfile that adds python-bindings to [jawg/docker-mapnik3](https://github.com/jawg/docker-mapnik3).
 The image uses Python 3.
 
 ## Build
